@@ -13,5 +13,5 @@
 * 如何书写单元测试
 为了了解 `Holochain` 应用程序是如何从开始到完成开发的，这些文档的每个部分都会包含一部分内容，
 我们将展示开发 `HoloLin` “Hello World”示例应用程序的每一个步骤。
-在[holoworld](https://github.com/holochain/holoworld){:target="_blank"} 上可以查看完成的版本，跟随后续的文档你可以自行创建，并在其中学习相关的基础知识！
+在[holoworld](https://github.com/holochain/holoworld)上可以查看完成的版本，跟随后续的文档你可以自行创建，并在其中学习相关的基础知识！
 本网站为您提供开发 `Holochain` 应用程序所需的一切，如果您发现缺少某些东西，请给我们反馈！首先要安装Holochain ...
